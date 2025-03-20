@@ -1,0 +1,9 @@
+S.NO,CONTAINER ID,IMAGE,IMAGE ID,COMMANDS,PORTS,NAMES
+1,924311e1ccb8,fa262c3a6564 (Mysql),fa262c3a6564,"""docker-entrypoint.s""",3306:3306,Mysq
+2,5b1372f97f89,a04dc4851cbc (Ubuntu),a04dc4851cbc,"""/bin/bash""",3306:3306,ubu
+3,ae9fd22ed845,e6c8fe2e1108 (python),e6c8fe2e1108,"""python3""",8080:80,python
+4,13bb9adc35f7,e0c827d9b7d9 (Maven),e0c827d9b7d9,"""/usr/local/bin/mvn-…""",60:80,Maven_1
+5,9ab86a84d085,ad4b31aa2de6 (redis),ad4b31aa2de6,"""docker-entrypoint.s…""",6379:81,redis
+,,,,,,
+,,,,,,
+,,,,,,
